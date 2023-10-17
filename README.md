@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://portfolio-sandun.netlify.app/)
 <h1 align="center">Hi 👋, I'm Sandun Wijesinghe</h1>
-<h3 align="center">A Passionate Web Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Developer from Sri Lanka</h3>
 <img
         align="right"
         alt="coding"
